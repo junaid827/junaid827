@@ -7,8 +7,8 @@ Full-Stack Engineer with extensive experience building dynamic web applications,
 
 ### Connect & Collaborate
 
-* **Portfolio:** [junaid](https://www.mominaman.com/?utm_source=github-readme&utm_medium=profile&utm_campaign=portfolio_profile_links&utm_content=website)
-* **Connect with me :** [LinkedIn](https://www.linkedin.com/in/mominaman/?utm_source=github-readme&utm_medium=profile&utm_campaign=portfolio_profile_links&utm_content=linkedin)
+* **Portfolio:** [junaid](https://junaid827.github.io/portfolio/#home)
+* **Connect with me :** [LinkedIn](https://www.linkedin.com/in/junaid-waheed-ai/)
 * Currently working on : [Dispatch Book](http://junaid827.github.io/dispatch-book-demo/#)
 * Contact me at  [e-mail](mailto:junaidwaheed827@gmail.com)
 
