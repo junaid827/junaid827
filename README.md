@@ -2,8 +2,6 @@ Junaid Waheed | Full-Stack Enigineer
 ======================================================================================================================================
 
 
---------------------
-
 Full-Stack Engineer with extensive experience building dynamic web applications, specializing in modern JavaScript frameworks, robust backend APIs, and AI integrations. Proven track record of delivering end-to-end solutions, from responsive UI development to scalable database architecture and containerized deployments.
 
 * 🌍  I'm based in Pakistan
